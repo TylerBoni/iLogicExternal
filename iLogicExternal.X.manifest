@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="iLogicExternal" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{6cfad819-5a80-4533-b520-a8356472404b}" progid="iLogicExternal.StandardAddInServer" threadingModel="Both" name="iLogicExternal.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="iLogicExternal.dll" hashalg="SHA1"></file>
+
+</assembly>
